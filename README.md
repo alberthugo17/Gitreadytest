@@ -1,0 +1,2 @@
+# Gitreadytest
+belajar git
