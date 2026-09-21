@@ -5,23 +5,23 @@
 
 const members = [
   {
-    name: "Nama Anggota 1",
+    name: "Hugo Antonio Hien Wijaya",
     role: "Frontend Developer",
-    image: "https://i.pinimg.com/736x/fc/af/7a/fcaf7aec4b7be05a0d062eff7851d2aa.jpg",
+    image: "https://media.licdn.com/dms/image/v2/D5603AQFhnztxG0kZng/profile-displayphoto-crop_800_800/B56Z.VfOpxKgAI-/0/1784919420970?e=1791417600&v=beta&t=7NACeEm5QMiz4G9LLmyOGwhKSsrFnKz3l8OnxSHe2BE",
     description: "Saya fokus membangun tampilan web yang rapi, responsif, dan mudah digunakan melalui struktur HTML dan desain antarmuka yang konsisten.",
     skills: ["HTML", "CSS", "JavaScript"]
   },
   {
-    name: "Nama Anggota 2",
+    name: "Muhammad Rifa Firdaus",
     role: "UI/UX Designer",
-    image: "https://i.pravatar.cc/300?img=47",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSed5HPFg1k4u2TMav5QwtUsGaxDog8BC9hmSmx5gcgEVMxhztZHVN5P7DD&s=10",
     description: "Saya merancang pengalaman pengguna yang sederhana, menarik, dan mudah dipahami dengan memperhatikan kebutuhan pengguna di setiap halaman.",
     skills: ["Figma", "Wireframing", "Prototyping"]
   },
   {
-    name: "Nama Anggota 3",
+    name: "Faiz Dani Setiawan",
     role: "JavaScript Developer",
-    image: "https://i.pravatar.cc/300?img=12",
+    image: "https://media.licdn.com/dms/image/v2/D4E03AQG18NRiUDVaRA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1705797293807?e=1791417600&v=beta&t=LjwwHfaYdf5qWLxtj0Lj9dqcuRWh7CK92kTbASSPE7k",
     description: "Saya mengembangkan interaksi halaman yang dinamis dan memastikan setiap fitur berjalan lancar, cepat, serta nyaman digunakan.",
     skills: ["JavaScript", "DOM", "Git"]
   }
