@@ -3,6 +3,7 @@
 Proyek pembuatan dan penggabungan komponen website BNCC menggunakan Git & GitHub sebagai bentuk kolaborasi tim.
 
 ## Visualisasi
+![Uploading image.png…]()
 
 
 ## Tech Stack
