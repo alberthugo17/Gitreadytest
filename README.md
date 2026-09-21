@@ -3,7 +3,9 @@
 Proyek pembuatan dan penggabungan komponen website BNCC menggunakan Git & GitHub sebagai bentuk kolaborasi tim.
 
 ## Visualisasi
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42688984-32a8-4f1c-a903-0a958d9ec113" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/788ce61e-69a1-48cc-a497-15ea06525ef1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d2b92df6-7021-406b-8a1a-838e57b44021" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/11c717f9-146b-4cbf-9193-f9a55b3fe6a1" />
 
 ## Tech Stack
 * HTML5
